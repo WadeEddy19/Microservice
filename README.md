@@ -16,3 +16,6 @@ integers in the output will vary depending on the input of the first text file.
 
 Both of these files paths will need to be edited within the program to fit the users computer.
 There are comments in the code on where these edits should occur. 
+
+![image](https://github.com/WadeEddy19/Microservice/assets/122330978/816c4690-fff7-4997-81d9-fe089cc6e92f)
+
